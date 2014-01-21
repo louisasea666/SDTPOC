@@ -1,4 +1,4 @@
 SDTPOC
 ======
 
-SDT POC
+SDT POC Update on Jan 21th, 2014.
